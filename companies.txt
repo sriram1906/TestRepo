@@ -3,3 +3,4 @@ Microsoft
 Tesla
 Amazon
 Palantir technologies
+Apple
